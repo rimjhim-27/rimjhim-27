@@ -1,17 +1,22 @@
-# Hi, I'm Rimjhim Rani 👋
+# Hi there, I'm Rimjhim Rani! 👋
 
-🎓 CS Student passionate about building full-stack web applications  
-💡 I love turning real-world problems into clean, functional software  
+🎓 CS Student | Full-Stack Developer  
+💡 Passionate about building real-world web applications  
 🔍 Open to Software Engineering Internships & Full-Time Roles
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ When I code, I rely on
 
-**Languages:** Python · JavaScript · TypeScript  
-**Frontend:** React · Tailwind CSS · HTML · CSS  
-**Backend:** Django · Node.js · REST APIs  
-**Tools:** Git · VS Code · Vite · SQLite
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -19,12 +24,20 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Patna Home Diagnostics](https://github.com/rimjhim-27/patna-home-diagnostics-book) | Home diagnostic appointment booking app | React, TypeScript, Tailwind |
-| [Task Tracker App](https://github.com/rimjhim-27/Task-Tracker-app) | Task management web app | Python, Django, SQLite |
+| [🏥 Patna Home Diagnostics](https://github.com/rimjhim-27/pathology-project) | Full-stack appointment booking app | React, Node.js, MongoDB |
+| [✅ Task Tracker](https://github.com/rimjhim-27/Task-Tracker-app) | Task management web app | Python, Django, SQLite |
+
+---
+
+## 📊 GitHub Stats
+
+![Rimjhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimjhim-27&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimjhim-27&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rimjhim-rani-9225bb315/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rimjhim-27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhim-rani-9225bb315/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimjhim-27)
