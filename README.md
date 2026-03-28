@@ -1,4 +1,8 @@
-# Hi there, I'm Rimjhim Rani! 👋
+<p align="center">
+  <img src="dp.jpg" width="150" style="border-radius: 50%"/>
+</p>
+
+<h1 align="center">Hi there, I'm Rimjhim Rani! 👋</h1>
 
 🎓 CS Student | Full-Stack Developer  
 💡 Passionate about building real-world web applications  
