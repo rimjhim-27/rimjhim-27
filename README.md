@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="photo.jpg" width="150" style="border-radius: 50%"/>
-</p>
 
 <h1 align="center">Hi there, I'm Rimjhim Rani! 👋</h1>
 
