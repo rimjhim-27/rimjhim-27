@@ -1,53 +1,100 @@
 # <h1 align="center">Hi there, I'm Rimjhim Rani! 👋</h1>
 
 <p align="center">
-🎓 <b>Computer Science Student</b><br>
-💻 Frontend Developer • 🤖 Python (ML & NLP) Enthusiast • ☕ Java & DSA<br>
-🚀 Open to Software Engineering Internships
+🤖 <b>ML Engineer</b> • 🐍 <b>Python & Machine Learning</b> • ⚙️ <b>Backend Systems</b> • ⚛️ <b>React</b><br>
+🎓 Computer Science Student • ☕ Java & DSA<br>
+🚀 <b>Open to ML Engineer Internships</b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Computer Science student passionate about software development and problem solving.
-* 💻 I enjoy building modern, responsive web applications using **React**, **TypeScript**, and **Tailwind CSS**.
-* 🤖 Built **Machine Learning** and **Natural Language Processing (NLP)** projects using **Python**.
-* ☕ Strong foundation in **Java**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.
-* 🌱 Currently learning Backend Development, REST APIs, and Software Engineering.
-* 🤝 Always excited to learn new technologies and build real-world projects.
+* 🎓 Computer Science student focused on **Machine Learning, AI, and software engineering**.
+* 🤖 Building **Machine Learning and NLP applications** using Python.
+* 🧠 Interested in developing intelligent systems that solve real-world problems.
+* ⚙️ Building backend systems and REST APIs to turn ML models into usable applications.
+* 💻 Experienced in building modern web interfaces using **React, TypeScript, and Tailwind CSS**.
+* ☕ Strong foundation in **Java, Object-Oriented Programming, and Data Structures & Algorithms**.
+* 🚀 Interested in the intersection of **Machine Learning, Backend Engineering, and Software Development**.
+* 🌱 Currently deepening my knowledge of **Machine Learning, NLP, backend systems, and system design**.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,tailwind,nodejs,django,mongodb,mysql,git,github,vscode,streamlit,tensorflow&perline=6"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=6"/>
 </p>
+
+**Machine Learning • NLP • Data Processing • Model Development • AI Applications**
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&perline=6"/>
+</p>
+
+**Node.js • Express • REST APIs • MongoDB • MySQL • PostgreSQL • Supabase**
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&perline=6"/>
+</p>
+
+**React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS**
+
+### ☕ Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode&perline=6"/>
+</p>
+
+**Java • Python • DSA • OOP • Git • GitHub • VS Code**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                       | Description                                                                                                                   | Tech Stack                        |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| 🏥 **Patna Home Diagnostics** | Full-stack pathology laboratory management platform with appointment booking and report management.                           | React • Node.js • MongoDB         |
-| 📄 **AI Resume Analyzer**     | AI-powered ATS Resume Analyzer with skill-gap detection, role prediction, resume insights, and personalized learning roadmap. | Python • NLP • Streamlit          |
-| 🛒 **E-Commerce Website**     | Responsive shopping website with reusable React components and modern UI/UX.                                                  | React • TypeScript • Tailwind CSS |
-| ✅ **Task Tracker**            | Task management application with CRUD functionality and authentication.                                                       | Python • Django • SQLite          |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 **Multimodal Document Intelligence** | AI-powered system for extracting and understanding information from multimodal documents and transforming unstructured content into structured knowledge. | Python • AI/ML • NLP |
+| 📄 **AI Resume Analyzer** | AI-powered resume analysis system with skill extraction, role prediction, skill-gap analysis, resume insights, and personalized learning recommendations. | Python • NLP • Streamlit |
+| 🏥 **Patna Home Diagnostics** | Full-stack pathology laboratory management platform with appointment booking, patient workflows, report management, and backend services. | React • Node.js • MongoDB |
+| 🛒 **E-Commerce Website** | Responsive e-commerce application with reusable React components and a modern user interface. | React • TypeScript • Tailwind CSS |
+| ☕ **Stock Trading Platform** | Java-based trading simulation system with user accounts, transactions, portfolio management, and market data handling. | Java • OOP • Data Structures |
+
+---
+
+## 🧠 What I'm Focused On
+
+```text
+Machine Learning
+      ↓
+NLP & AI Applications
+      ↓
+Backend & REST APIs
+      ↓
+Model Integration
+      ↓
+Full-Stack AI Systems
+```
+
+I'm particularly interested in building **end-to-end AI/ML systems** where machine learning models are integrated with reliable backend services and usable applications.
 
 ---
 
 ## 📚 Currently Learning
 
-* 🚀 Advanced Data Structures & Algorithms
-* ⚛️ Advanced React & TypeScript
-* 🌐 Backend Development
-* 🔗 REST APIs
-* ☁️ Cloud Computing
 * 🤖 Machine Learning & NLP
+* 🧠 Deep Learning & Model Evaluation
+* ⚙️ Backend Development & REST APIs
+* 🏗️ System Design & Software Engineering
+* ☁️ Cloud & ML Deployment
+* 📊 Data Structures & Algorithms
 
 ---
 
@@ -102,6 +149,6 @@
 <p align="center">
 
 ⭐ <b>Thanks for visiting my profile!</b><br>
-I'm always open to collaborating on exciting projects and learning new technologies.
+Building, learning, and exploring the intersection of <b>AI, Machine Learning, and Software Engineering.</b>
 
 </p>
